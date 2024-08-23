@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ragul315/Leetcode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
 |  |
 | ------- |
