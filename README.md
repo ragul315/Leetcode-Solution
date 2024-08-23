@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/ragul315/Leetcode-Solution/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
