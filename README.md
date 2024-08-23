@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ragul315/Leetcode-Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragul315/Leetcode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ragul315/Leetcode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ragul315/Leetcode-Solution/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ragul315/Leetcode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
