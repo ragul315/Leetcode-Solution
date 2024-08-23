@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/ragul315/Leetcode-Solution/tree/master/0183-customers-who-never-order) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
