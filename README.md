@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragul315/Leetcode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/ragul315/Leetcode-Solution/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ragul315/Leetcode-Solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ragul315/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ragul315/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ragul315/Leetcode-Solution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
 | ------- |
