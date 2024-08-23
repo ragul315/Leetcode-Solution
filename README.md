@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ragul315/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
