@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ragul315/Leetcode-Solution/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1205-defanging-an-ip-address](https://github.com/ragul315/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
+| [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
