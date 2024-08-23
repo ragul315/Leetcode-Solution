@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ragul315/Leetcode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
+| [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/ragul315/Leetcode-Solution/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
