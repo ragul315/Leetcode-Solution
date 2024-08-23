@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 ## Greedy
 |  |
 | ------- |
