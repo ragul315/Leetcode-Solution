@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
+| [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
 ## Two Pointers
 |  |
 | ------- |
