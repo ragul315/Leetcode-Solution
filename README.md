@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ragul315/Leetcode-Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ragul315/Leetcode-Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
