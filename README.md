@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/ragul315/Leetcode-Solution/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
