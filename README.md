@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ragul315/Leetcode-Solution/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/ragul315/Leetcode-Solution/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/ragul315/Leetcode-Solution/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/ragul315/Leetcode-Solution/tree/master/1827-invalid-tweets) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ragul315/Leetcode-Solution/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
