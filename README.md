@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ragul315/Leetcode-Solution/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1205-defanging-an-ip-address](https://github.com/ragul315/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
 ## Greedy
 |  |
 | ------- |
