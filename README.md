@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
+| [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
