@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
