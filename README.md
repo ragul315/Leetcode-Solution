@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
+| [2083-three-divisors](https://github.com/ragul315/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/ragul315/Leetcode-Solution/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/ragul315/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/ragul315/Leetcode-Solution/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/ragul315/Leetcode-Solution/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/ragul315/Leetcode-Solution/tree/master/2507-number-of-common-factors) |
 ## Counting
 |  |
