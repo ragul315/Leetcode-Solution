@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ragul315/Leetcode-Solution/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1205-defanging-an-ip-address](https://github.com/ragul315/Leetcode-Solution/tree/master/1205-defanging-an-ip-address) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Geometry
 |  |
 | ------- |
