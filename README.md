@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ragul315/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ragul315/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ragul315/Leetcode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/ragul315/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ragul315/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/ragul315/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
