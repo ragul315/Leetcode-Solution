@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
 | [2383-add-two-integers](https://github.com/ragul315/Leetcode-Solution/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ragul315/Leetcode-Solution/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
