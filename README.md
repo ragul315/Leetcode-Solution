@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragul315/Leetcode-Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ragul315/Leetcode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
+| [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 | [1543-simplified-fractions](https://github.com/ragul315/Leetcode-Solution/tree/master/1543-simplified-fractions) |
+| [1585-the-kth-factor-of-n](https://github.com/ragul315/Leetcode-Solution/tree/master/1585-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
 | ------- |
