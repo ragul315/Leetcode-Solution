@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ragul315/Leetcode-Solution/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/ragul315/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/ragul315/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/ragul315/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
