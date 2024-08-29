@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
+| [0372-super-pow](https://github.com/ragul315/Leetcode-Solution/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0888-mirror-reflection](https://github.com/ragul315/Leetcode-Solution/tree/master/0888-mirror-reflection) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ragul315/Leetcode-Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ragul315/Leetcode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/ragul315/Leetcode-Solution/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
