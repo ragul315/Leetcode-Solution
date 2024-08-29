@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ragul315/Leetcode-Solution/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ragul315/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ragul315/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/ragul315/Leetcode-Solution/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/ragul315/Leetcode-Solution/tree/master/0372-super-pow) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ragul315/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
