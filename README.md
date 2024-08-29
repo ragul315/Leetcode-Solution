@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ragul315/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/ragul315/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/ragul315/Leetcode-Solution/tree/master/0782-jewels-and-stones) |
