@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ragul315/Leetcode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ragul315/Leetcode-Solution/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ragul315/Leetcode-Solution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ragul315/Leetcode-Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3373-maximum-prime-difference](https://github.com/ragul315/Leetcode-Solution/tree/master/3373-maximum-prime-difference) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/ragul315/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragul315/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ragul315/Leetcode-Solution/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/ragul315/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ragul315/Leetcode-Solution/tree/master/3412-permutation-difference-between-two-strings) |
