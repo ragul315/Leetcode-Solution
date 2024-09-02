@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1580-shuffle-the-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragul315/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ragul315/Leetcode-Solution/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
@@ -197,4 +200,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragul315/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
