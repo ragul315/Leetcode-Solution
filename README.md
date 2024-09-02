@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -191,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0372-super-pow](https://github.com/ragul315/Leetcode-Solution/tree/master/0372-super-pow) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ragul315/Leetcode-Solution/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
