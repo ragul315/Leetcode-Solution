@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragul315/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ragul315/Leetcode-Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ragul315/Leetcode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
