@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ragul315/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ragul315/Leetcode-Solution/tree/master/1580-shuffle-the-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ragul315/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ragul315/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ragul315/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ragul315/Leetcode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
