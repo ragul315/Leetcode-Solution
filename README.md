@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ragul315/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/ragul315/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/ragul315/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ragul315/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [1791-richest-customer-wealth](https://github.com/ragul315/Leetcode-Solution/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragul315/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ragul315/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/ragul315/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
