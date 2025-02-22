@@ -229,4 +229,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ragul315/Leetcode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/ragul315/Leetcode-Solution/tree/master/0812-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ragul315/Leetcode-Solution/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ragul315/Leetcode-Solution/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ragul315/Leetcode-Solution/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ragul315/Leetcode-Solution/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
